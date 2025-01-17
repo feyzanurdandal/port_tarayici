@@ -27,10 +27,3 @@ Bu Python programı, belirli bir IP adresindeki belirli bir port aralığını t
 
 - Main.py: Bu dosya, programın ana işlevselliğini içerir. Kullanıcıdan IP adresi ve port aralığı alır, ardından belirtilen aralıkta portları paralel olarak tarar ve açık olanları ekranda gösterir.
 
-## Katkı
-
-- Eğer projeye katkıda bulunmak isterseniz, lütfen pull request gönderin. Geri bildirim ve öneriler her zaman hoş karşılanır.
-
-## Lisans
-
-- Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
